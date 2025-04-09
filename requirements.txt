@@ -1,0 +1,8 @@
+flask
+langchain==0.3.22
+langchain-community==0.0.29
+langchain-huggingface==0.1.2
+sentence-transformers
+transformers
+faiss-cpu
+pypdf
